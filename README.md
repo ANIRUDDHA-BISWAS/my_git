@@ -1,5 +1,7 @@
 # My Git Project
 
-This is my first GitHub repository created using VS Code.
- README.md
-
+git config --global user.name "Aniruddha Biswas"
+git config --global user.email "aniruddhaa.biswas@gmail.com"
+git config --global user.name
+git config --global user.email
+git push -u origin main
